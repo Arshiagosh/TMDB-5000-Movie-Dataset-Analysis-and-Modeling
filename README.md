@@ -24,6 +24,10 @@ Several classification algorithms are trained and evaluated for predicting movie
 
 The performance of each model is evaluated using metrics such as accuracy, precision, recall, F1-score, and ROC curves.
 
+## Recommender System
+
+A simple Plot description-based Recommender is implemented based on the `overview`. It uses TF-IDF.
+
 ## Usage
 
 To use this project, follow these steps:
