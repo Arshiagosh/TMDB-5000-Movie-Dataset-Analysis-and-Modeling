@@ -31,7 +31,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [<repository_url>](https://github.com/Arshiagosh/TMDB-5000-Movie-Dataset-Analysis-and-Modeling)https://github.com/Arshiagosh/TMDB-5000-Movie-Dataset-Analysis-and-Modeling
+   git clone https://github.com/Arshiagosh/TMDB-5000-Movie-Dataset-Analysis-and-Modeling
    ```
 2. Install the required dependencies:
    ```bash
